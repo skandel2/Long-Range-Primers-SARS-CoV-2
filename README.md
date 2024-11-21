@@ -1,6 +1,6 @@
 # Long-range-primers-SARS-CoV-2
 
-This github contains primer-schemes as well as bioinformatics pipeline to process nanopore sequencing data used in the paper 
+This repositary contains primer-schemes as well as bioinformatics pipeline to process nanopore sequencing data used in the paper 
 ### Genomic surveillance of SARS-CoV-2 using long-range PCR primers https://doi.org/10.3389/fmicb.2024.1272972
 
 
