@@ -1,1 +1,1 @@
-# Long-range-primers--SARS-CoV-2
+# Long-range-primers-SARS-CoV-2
