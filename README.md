@@ -5,7 +5,7 @@ This repository contains primer-schemes, example script (Artic bioinformatics pi
 
 We used long range PCR primers in surveillance of SARS-CoV-2. Viral RNA was reverse transcribed using LunaScript SuperMix. cDNA amplification was carried out in two pools of long-range primers with amplicon size of 4500 nucleotides followed by library preparation using rapid barcoding kit SQK-RBK004 from Oxford Nanopore. 
 
-Link to raw sequencing data for four samples sequenced in GridION using long-range primers in fastq format: [PRJNA1189558](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1189558)
+Link to raw sequencing data for four samples sequenced in GridION using long-range primers in fastq format: [PRJNA1189558]([https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1189558](https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA1189558)
 
 ### [Artic bioinformatics pipeline](https://github.com/artic-network/fieldbioinformatics) with medaka was used to process sequencing data from Oxford Nanopore GridION.
 
